@@ -8,4 +8,4 @@ To access this information, just press F12 or "Inspect" the page to get to the c
 ### How to add employees:
 To track employees, simply click the "Add Employees" button and you will be prompted to input a first name, last name, and a salary. Once you have put in the final salary for your last employee, you will be prompted to add another. If you are finished, simply click "Cancel" on the prompt, and the page will populate the desired information!
 
-To access the website, [click here!]()
+To access the website, [click here!](https://drewheaster.github.io/employee-salary-tracker/)
